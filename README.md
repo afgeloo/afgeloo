@@ -3,7 +3,9 @@
 <h3 align="justify">Passionate and committed to driving excellence in team collaboration and making impactful contributions to the technology industry. Exceptionally adaptable and self-motivated, with a fervent desire to spearhead innovative projects and initiatives while honing expertise in the field. Proficient in fostering engagement, effective communication, proactively seizing opportunities, and aligning efforts with overarching strategic goals.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+
+<p align="left">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=afgeloo&label=Profile%20views&color=0e75b6&style=flat" alt="afgeloo">
