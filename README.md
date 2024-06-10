@@ -8,16 +8,10 @@ I'm all about bringing people together, sparking ideas, and making a real impact
 
 Let's create something awesome together and have a blast doing it! 🚀.</h3>
 
-
 <img align="right" alt="Coding" width="300" height="300" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 
 <p align="left">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=afgeloo&label=Profile%20views&color=0e75b6&style=flat" alt="afgeloo">
-</p>
-
-- 📫 Reach me at **fajmreyes@gmail.com**
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -26,7 +20,9 @@ Let's create something awesome together and have a blast doing it! 🚀.</h3>
   </a>
 </p>
 
-
+<br>
+- 📫 Reach me at **fajmreyes@gmail.com**
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -88,7 +84,7 @@ Let's create something awesome together and have a blast doing it! 🚀.</h3>
   </a>
 </p>
 
-
+<br>
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afgeloo&show_icons=true&locale=en&layout=compact" alt="afgeloo">
