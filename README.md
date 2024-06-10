@@ -1,6 +1,12 @@
-<h1 align="center">Hi! I'm Angelo Reyes 👨🏻‍💻</h1>
+<h1 align="center">Hello there! I'm Angelo 👋🏻</h1>
 
-<h3 align="justify">Passionate and committed to driving excellence in team collaboration and making impactful contributions to the technology industry. Exceptionally adaptable and self-motivated, with a fervent desire to spearhead innovative projects and initiatives while honing expertise in the field. Proficient in fostering engagement, effective communication, proactively seizing opportunities, and aligning efforts with overarching strategic goals.</h3>
+<h3 align="justify">
+
+I am super pumped about teaming up and making cool things in the tech world! 👨🏻‍💻
+
+I'm all about bringing people together, sparking ideas, and making a real impact. Whether it's leading innovative projects or just having a good chat 💬, count me in! hihi
+
+Let's create something awesome together and have a blast doing it! 🚀.</h3>
 
 
 <img align="right" alt="Coding" width="300" height="300" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
