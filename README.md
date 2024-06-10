@@ -21,8 +21,11 @@ Let's create something awesome together and have a blast doing it! 🚀.</h3>
 </p>
 
 <br>
-- 📫 Reach me at **fajmreyes@gmail.com**
-<br><br>
+- 📫 Reach me at <strong>fajmreyes@gmail.com</strong>
+
+<br>
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
