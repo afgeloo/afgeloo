@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQG28SyBzD5Kig/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730307798600?e=1735776000&v=beta&t=jXDOffiYFjNzNOpqTYwTrC9XZWklvkJS6zP9Y2pL2Fk" alt="Banner Image" width="100%">
-</p>
+
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQEZFy37TseC8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730354723682?e=1735776000&v=beta&t=3JXlKVte9Rg0aYaGt1qJhsyqkmJKJ-xE-Lq3wjvvLWg)
 
 **Hey there! 👋🏻**
 
