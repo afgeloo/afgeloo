@@ -1,5 +1,4 @@
 
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQEZFy37TseC8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730354723682?e=1735776000&v=beta&t=3JXlKVte9Rg0aYaGt1qJhsyqkmJKJ-xE-Lq3wjvvLWg)
 
 **Hey there! 👋🏻**
 
